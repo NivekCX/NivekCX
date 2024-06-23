@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @NivekCX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 📫 How to reach me ...
+<h1>Hi! I'm Kevin</h1>
 
-<!---
-NivekCX/NivekCX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-wip, I'll come back ^^
+I'm just learning githib ;)
